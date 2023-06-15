@@ -1,0 +1,1 @@
+#define NV_MDEV_DEV_PRESENT

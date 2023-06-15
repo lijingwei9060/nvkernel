@@ -1,0 +1,1 @@
+#define NV_PIN_USER_PAGES_PRESENT

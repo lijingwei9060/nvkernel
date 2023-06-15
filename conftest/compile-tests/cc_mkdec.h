@@ -1,0 +1,1 @@
+#undef NV_CC_MKDEC_PRESENT
